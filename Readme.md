@@ -41,7 +41,7 @@ npm start
 
 ## Tech Stack
 
-![Node.js](https://img.shields.io/badge/React.js-34562l?style=for-the-badge&logo=Nodejs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-34562l?style=for-the-badge&logo=Node.js&logoColor=white)
 
 ## Glitch Deploy
 
