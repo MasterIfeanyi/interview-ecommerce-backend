@@ -13,7 +13,7 @@ const userRoutes = require("./routes/api/user");
 
 const app = express();
 
-const PORT = 4000;
+const PORT = process.env.PORT || 4000;
 
 
 // connect to mongoDB
